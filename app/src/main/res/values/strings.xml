@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Value Fake Store</string>
+    <string name="price_format">%1s EGP</string>
+    <string name="reviews_count">( %1d reviews )</string>
+    <string name="grid_mode">Grid</string>
+    <string name="list_mode">List</string>
+</resources>
